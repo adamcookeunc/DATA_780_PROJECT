@@ -34,8 +34,7 @@ This project presents a comprehensive machine learning analysis for predicting c
  
 
 - `DATA_780_PROJECT_NOTEBOOK_07272025.ipynb`: The actual Jupyter notebook used to perform the analysis for the proect with code that can be edited and executed.
-
- 
+- `DATA780_NeurIPS_Paper.pdf`: The academic research paper in the NeurIPS format that goes into more detail of our analysis, methodology, and results.
 
 - `DATA_780_Powerpoint.pdf`: A slideshow presentation summarizing the methodology, results, and key findings.
 
