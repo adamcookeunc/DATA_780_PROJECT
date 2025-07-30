@@ -26,11 +26,11 @@ This project presents a comprehensive machine learning analysis for predicting c
 
  
 
-- `CHANGE THIS TO ACTUAL FILE NAME.html`: The actual Jupyter notebook used to perform the analysis for the proect with code that can be edited and executed.
+- `DATA_780_PROJECT_NOTEBOOK_07272025.ipynb`: The actual Jupyter notebook used to perform the analysis for the proect with code that can be edited and executed.
 
  
 
-- `CHANGE THIS TO ACTUAL FILE NAME.pdf`: A slideshow presentation summarizing the methodology, results, and key findings.
+- `DATA_780_Powerpoint.pdf`: A slideshow presentation summarizing the methodology, results, and key findings.
 
  
 
