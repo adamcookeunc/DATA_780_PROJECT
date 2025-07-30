@@ -132,15 +132,11 @@ due to lbfgs incompatibility
 
 #### Decision Tree Classifier:
 
-- Criterion: [gini, entropy, log_loss] - The function used to measure the quality of a split
-
-(Default: gini)
+- Criterion: [gini, entropy, log_loss] - The function used to measure the quality of a split (Default: gini)
 
 - Max depth: [None, 5, 10, 15] - Maximum depth of the tree (Default: None)
 
-- Min samples split: [2, 10, 20] - The minimum number of samples required to split an internal
-
-node (Default: 2)
+- Min samples split: [2, 10, 20] - The minimum number of samples required to split an internal node (Default: 2)
 
 - Class weight: [None, balanced] - Balanced automatically adjust the weights inversely proportional to class frequencies (Default: None)
 
@@ -148,19 +144,13 @@ node (Default: 2)
 
 - N estimators: [100, 200, 300] - Number of trees in the forest (Default: 100)
 
-- Criterion: [gini, entropy, log_loss] - The function used to measure the quality of a split
-
-(Default: gini)
+- Criterion: [gini, entropy, log_loss] - The function used to measure the quality of a split (Default: gini)
 
 - Max depth: [None, 5, 10, 15] - Maximum depth of the tree (Default: None)
 
-- Min samples split: [2, 10, 20] - The minimum number of samples required to split an internal
+- Min samples split: [2, 10, 20] - The minimum number of samples required to split an internal node (Default: 2)
 
-node (Default: 2)
-
-- Max features: [None,sqrt, log2] - The number of features to consider when looking for the
-
-best split (Default SQRT)
+- Max features: [None,sqrt, log2] - The number of features to consider when looking for the best split (Default SQRT)
 
 - Class weight: [None, balanced] – class balancing mechanism
 
@@ -176,13 +166,9 @@ best split (Default SQRT)
 
 - Max depth: [3, 6] - Maximum depth of the trees (Default: 6)
 
-- Subsample: [0.8, 1.0] - The fraction of samples to be randomly sampled to build each tree
+- Subsample: [0.8, 1.0] - The fraction of samples to be randomly sampled to build each tree (Default: 1.0)
 
-(Default: 1.0)
-
-- Colsample bytree: [0.8, 1.0] - The fraction of features to be randomly sampled for building
-
-each tree (Default: 1.0)
+- Colsample bytree: [0.8, 1.0] - The fraction of features to be randomly sampled for building each tree (Default: 1.0)
 
  
 
