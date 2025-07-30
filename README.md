@@ -4,7 +4,14 @@
 
 # Model Selection for Customer Churn Prediction in the Telecommunications Industry
 
- 
+
+## Collaborators
+- Adam Cooke
+- Anthony Gheen
+- Nitin Shirsat
+
+
+---
 
 ## Overview
 
