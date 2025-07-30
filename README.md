@@ -142,8 +142,6 @@ due to lbfgs incompatibility
 
 node (Default: 2)
 
-6
-
 - Class weight: [None, balanced] - Balanced automatically adjust the weights inversely proportional to class frequencies (Default: None)
 
 #### Random Forest Classifier:
