@@ -168,19 +168,7 @@ best split (Default SQRT)
 
 #### Gaussian Naive Bayes Classifier:
 
-- Var smoothing: [1 × 10−9
-
-, 1 × 10−7
-
-, 1 × 10−5
-
-] - Artificially adding a value to the variance
-
-of each feature, widening the distribution and accounting for more samples further from the
-
-mean (Default: 1 × 10−9
-
-)
+- Var smoothing: [1 × 10−9, 1 × 10−7, 1 × 10−5] - Artificially adding a value to the variance of each feature, widening the distribution and accounting for more samples further from the mean (Default: 1 × 10−9)
 
 #### XGBoost Classifier:
 
